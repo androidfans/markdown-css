@@ -1,5 +1,7 @@
 body {
-  font-size: 14px;
+  font-size: 16px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 
 .wrapper {
@@ -132,17 +134,7 @@ h3 {
 
 h4 {
   font-size: 17px;
-  margin: 0.8em 5px 0.1em 5px!important;
-}
-
-h5 {
-  font-size: 16px;
-  margin: 0.4em 5px -0.2em 5px!important;
-}
-
-h6 {
-  font-size: 15px;
-  margin: 0em 5px -0.5em 5px!important;
+  margin: 1.0em 5px 0em 5px!important;
 }
 
 table {
